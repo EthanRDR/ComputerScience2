@@ -1,0 +1,21 @@
+div{
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+}
+
+.first-box {
+  background-color: lavender;
+  padding: 20px;
+  border-width: 10px;
+}
+.second-box {
+  margin-left: 260px;
+  background-color: green;
+  border-width: 20px;
+}
+.third-box {
+  margin-left: 500px;
+  background-color: cyan;
+  border-width: 10px;
+}
