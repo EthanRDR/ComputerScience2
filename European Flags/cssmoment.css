@@ -1,0 +1,18 @@
+img {
+  width: 100px;
+  height: 250px;
+}
+
+h2 {
+  display:inline
+}
+
+.nuone {
+  width: 400px;
+  height: 100px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
