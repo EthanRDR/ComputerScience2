@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.parallax {
+  background-image: url("woahmomoa.png");
+  min-height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallaxexample {
+  height: 700px;
+  background-color: purple;
+  font-size: 24px;
+}
